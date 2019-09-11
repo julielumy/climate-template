@@ -1,7 +1,5 @@
 
-
-
-[![Build Status](https://travis-ci.org/espm-157/climate-template.svg?branch=master)](https://travis-ci.org/espm-157/climate-template) *Template badge, replace with your individual badge*
+[![Build Status](https://travis-ci.com/espm-157/climate-julielumy.svg?token=Np7eBgpy5DvcTxVpgC3Y&branch=master)](https://travis-ci.com/espm-157/climate-julielumy)
 
 
 This repository is a template for every teams climate module repository. This is the first module of ESPM 157, intended to
